@@ -1,0 +1,2 @@
+# A-Streamlit-App-for-Automating-Forecast-Updates-Using-Excel-Requests
+This Streamlit-based web application automates the generation and update of Forecast Item IDs based on user-provided SKU mapping requests. It streamlines the process of updating tactical and operational forecast records using two uploaded Excel files: one containing master forecast data and another containing user modification requests.
