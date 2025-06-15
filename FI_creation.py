@@ -49,7 +49,7 @@ if data_manager_file and user_request_file:
             )
             filtered["ProductId"] = req["New SKU"]
 
-            # Set SOURCE and ENDEFF
+            # Set SOURCE and ENDEFF In place of Tarun Kumar you can replace with your name
             filtered["SOURCE"] = f"Manual Tarun Kumar {today_str}"
             filtered["ENDEFF"] = "12/31/2998 11:59:59 PM"
 
