@@ -22,6 +22,5 @@ o	Uses success/info/error messages, expanding previews, and automatic formatting
 pip install streamlit pandas openpyxl xlsxwriter (@command prompt)
 
 **To run the app @command prompt**
-streamlit run your_script_name.py
-Replace your_script_name.py with the actual filename, e.g., forecast_generator.py
+streamlit run FI_creation.py
 
